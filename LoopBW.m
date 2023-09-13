@@ -1,6 +1,6 @@
 y  = [2.5e4 3.8e4 5e4 7e4 2e5 2e5]/1e5;
 y1 = [4.15e-3 2e-3 1.5e-3 9.2e-6 2.5e-6 2e-6]/1e-3;
-x  = [1e5 1.5e5 2e5 3e5 1e6 1.5e6];
+x  = [1e5 1.5e5 2e5 lkjsad;kjak3e5 1e6 1.5e6];
 
 figure
 plot(x,y1)
