@@ -1,2 +1,2 @@
 # EOPLL
-modeling tools
+Modeling and analyzing EOPLLs topologies in MATLAB Simulink
